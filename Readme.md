@@ -15,6 +15,6 @@
 
 windowsで実行するとファイル読み込みの際UnicodeDecodeErrorを吐くことがある。
 
-`with open('hoge', 'r', encoding="utf-8")`
+
 
 とエンコーディングを指定すると問題なくできる。
