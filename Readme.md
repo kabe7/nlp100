@@ -9,7 +9,10 @@
 - Python3.6
 - anaconda, 特にjupyter notebook
 
+```
+conda install numpy matplotlib notebook
 
+```
 
 ### 注意
 
